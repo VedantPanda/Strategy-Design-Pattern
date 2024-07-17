@@ -1,6 +1,6 @@
-package StrategyDesignPattern.Behaviours.Fly.impl;
+package main.Behaviours.Fly.impl;
 
-import StrategyDesignPattern.Behaviours.Fly.Flying;
+import main.Behaviours.Fly.Flying;
 
 public class FlyWithWings implements Flying {
     @Override

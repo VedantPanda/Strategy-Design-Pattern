@@ -1,8 +1,8 @@
-package StrategyDesignPattern.DuckType;
+package main.DuckType;
 
-import StrategyDesignPattern.Behaviours.Fly.impl.FlyWithWings;
-import StrategyDesignPattern.Behaviours.Quack.impl.MuteQuack;
-import StrategyDesignPattern.Duck;
+import main.Behaviours.Fly.impl.FlyWithWings;
+import main.Behaviours.Quack.impl.MuteQuack;
+import main.Duck;
 
 public class RedHeadDuck extends Duck {
 

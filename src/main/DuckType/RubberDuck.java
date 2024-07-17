@@ -1,8 +1,8 @@
-package StrategyDesignPattern.DuckType;
+package main.DuckType;
 
-import StrategyDesignPattern.Behaviours.Fly.impl.FlyNoWay;
-import StrategyDesignPattern.Behaviours.Quack.impl.Quack;
-import StrategyDesignPattern.Duck;
+import main.Behaviours.Fly.impl.FlyNoWay;
+import main.Behaviours.Quack.impl.Quack;
+import main.Duck;
 
 public class RubberDuck extends Duck {
 

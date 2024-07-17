@@ -1,6 +1,6 @@
-package StrategyDesignPattern.Behaviours.Quack.impl;
+package main.Behaviours.Quack.impl;
 
-import StrategyDesignPattern.Behaviours.Quack.Quacking;
+import main.Behaviours.Quack.Quacking;
 
 public class MuteQuack implements Quacking {
     @Override

@@ -1,8 +1,8 @@
-package StrategyDesignPattern.DuckType;
+package main.DuckType;
 
-import StrategyDesignPattern.Duck;
-import StrategyDesignPattern.Behaviours.Fly.impl.FlyWithWings;
-import StrategyDesignPattern.Behaviours.Quack.impl.Quack;
+import main.Duck;
+import main.Behaviours.Fly.impl.FlyWithWings;
+import main.Behaviours.Quack.impl.Quack;
 
 public class MallardDuck extends Duck {
     @Override
