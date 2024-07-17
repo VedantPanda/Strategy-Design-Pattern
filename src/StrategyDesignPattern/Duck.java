@@ -21,6 +21,7 @@ public abstract class Duck {
     }
 
     public Duck(){
+
     }
 
     public Duck(Quacking quackBehaviour){
